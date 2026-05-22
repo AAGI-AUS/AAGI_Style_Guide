@@ -72,3 +72,5 @@ That document has been included in this repository as [Proposed Updates to the A
 # 2026 Updates
 
 In the first quarter of 2026, the style guide and strategic partner logo blocks were updated with the new "Adelaide University" with the order being changed from Curtin University, the University of Queensland and University of Adelaide to be Adelaide University, Curtin University, the University of Queensland and approved by all strategic partners.
+
+!["AAGI Partner Logos for GRDC, Adelaide University, Curtin University, and The University of Queensland"](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).svg)
