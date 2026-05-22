@@ -33,8 +33,8 @@ All files are in the [assets](assets) folder.
 
 #### AAGI Logo
 
-- [PDF Logo](assets/aagi-logo.pdf)
-- [SVG Logo](assets/aagi-logo.svg)
+- [PDF Logo](assets/AAGI_logo.pdf)
+- [SVG Logo](assets/AAGI_logo.svg)
 
 #### Strategic Partner Logos (Landscape)
 
