@@ -38,15 +38,15 @@ All files are in the [assets](assets) folder.
 
 #### Strategic Partner Logos (Landscape)
 
-- [JPG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).jpg)
-- [PDF Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).pdf)
-- [SVG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).svg)
+- [JPG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).jpg)
+- [PDF Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).pdf)
+- [SVG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).svg)
 
 #### Strategic Partner Logos (Portrait)
 
-- [JPG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).jpg)
-- [PDF Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).pdf)
-- [SVG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).svg)
+- [JPG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).jpg)
+- [PDF Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).pdf)
+- [SVG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).svg)
 
 #### Strategic Partner Logo Block with Project Partner (Landscape)
 
