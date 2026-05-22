@@ -27,33 +27,42 @@ All files are in the [assets](assets) folder.
 
 ### Style Guide
 
-- [AAGI_logo_guidelinesV1.pdf](assets/AAGI_logo_guidelinesV1.pdf)
+- [AAGI_logo_guidelines-Updated_2026.pdf](assets/AAGI_logo_guidelines-Updated_2026.pdf)
 
 ### Logos
 
 #### AAGI Logo
 
-- [PDF Logo](assets/AAGI_Logo/aagi-logo.pdf)
-- [SVG Logo](assets/AAGI_Logo/aagi-logo.svg)
+- [PDF Logo](assets/aagi-logo.pdf)
+- [SVG Logo](assets/aagi-logo.svg)
 
-#### Partner Logos
+#### Strategic Partner Logos (Landscape)
 
-- [JPG Partner Logos](assets/Partners.jpg)
-- [PDF Partner Logos](assets/Partners.pdf)
-- [SVG Partner Logos](assets/Partners.svg)
+- [JPG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).jpg)
+- [PDF Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).pdf)
+- [SVG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).svg)
 
-#### Partner Logos with Project Partner Logo Space for Insertion
+#### Strategic Partner Logos (Portrait)
 
-- [JPG Project Partner Logos](assets/Project_partner.jpg)
-- [PDF Project Partner Logos](assets/Project_partner.pdf)
-- [SVG Project Partner Logos](assets/Project_partner.svg)
+- [JPG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).jpg)
+- [PDF Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).pdf)
+- [SVG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).svg)
+
+#### Strategic Partner Logo Block with Project Partner (Landscape)
+
+- [JPG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Landscape\).jpg)
+- [PDF Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Landscape\).pdf)
+- [SVG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Landscape\).svg)
+
+#### Strategic Partner Logo Block with Project Partner (Portrait)
+
+- [JPG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Portrait\).jpg)
+- [PDF Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Portrait\).pdf)
+- [SVG Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Portrait\).svg)
 
 ### AAGI Presentation Banner
 
 - [JPG Banner](assets/AAGI_pres_banner.jpg)
-
-!["AAGI Partner Logos for GRDC, Adelaide University, Curtin University, and The University of Queensland"](assets/Partners.svg)
-
 
 # AAGI Style Guide – Issues and Recommendations Report
 
