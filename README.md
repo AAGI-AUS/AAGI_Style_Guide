@@ -15,10 +15,11 @@ Logos are made available in different formats to suit various needs, including p
 
 ## Copyright and Usage Restrictions
 
-The files and trademarks in this repository remain the sole copyright of the GRDC, AAGI, and its strategic partners Curtin University, the University of Queensland, and the University of Adelaide. 
+The files and trademarks in this repository remain the sole copyright of the GRDC, AAGI, and its strategic partners, Adelaide University, Curtin University, the University of Queensland. 
 
-This repository is made publicly visible for the purposes of transparency and ease of access for AAGI personnel. _No licence is provided for public use._ Any
-reproduction, modification or sharing of these files outside of an AAGI context must first be explicitly approved by the GRDC and the AAGI strategic partners.
+This repository is made publicly visible for the purposes of transparency and ease of access for AAGI personnel.
+ _No licence is provided for public use._
+Any reproduction, modification or sharing of these files outside of an AAGI context must first be explicitly approved by the GRDC and the AAGI strategic partners.
 
 ## Files
 
@@ -26,34 +27,50 @@ All files are in the [assets](assets) folder.
 
 ### Style Guide
 
-- [AAGI_logo_guidelinesV1.pdf](assets/AAGI_logo_guidelinesV1.pdf)
+- [AAGI_logo_guidelines-Updated_2026.pdf](assets/AAGI_logo_guidelines-Updated_2026.pdf)
 
 ### Logos
 
 #### AAGI Logo
 
-- [PDF Logo](assets/aagi-logo.pdf)
-- [SVG Logo](assets/aagi-logo.svg)
+- [PDF Logo](assets/AAGI_logo.pdf)
+- [SVG Logo](assets/AAGI_logo.svg)
 
-#### Partner Logos
+#### Strategic Partner Logos (Landscape)
 
-- [JPG Partner Logos](assets/Partners.jpg)
-- [PDF Partner Logos](assets/Partners.pdf)
-- [SVG Partner Logos](assets/Partners.svg)
+- [PNG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).png)
+- [PDF Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).pdf)
+- [SVG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Landscape\).svg)
 
-#### Partner Logos with Project Partner Logo Space for Insertion
+#### Strategic Partner Logos (Portrait)
 
-- [JPG Project Partner Logos](assets/Project_partner.jpg)
-- [PDF Project Partner Logos](assets/Project_partner.pdf)
-- [SVG Project Partner Logos](assets/Project_partner.svg)
+- [PNG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).png)
+- [PDF Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).pdf)
+- [SVG Strategic Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).svg)
+
+#### Strategic Partner Logo Block with Partner (Landscape)
+
+- [PNG Strategic Partner and Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Landscape\).png)
+- [PDF Strategic Partner and Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Landscape\).pdf)
+- [SVG Strategic Partner and Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Landscape\).svg)
+
+#### Strategic Partner Logo Block with Partner (Portrait)
+
+- [PNG Strategic Partner and Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Portrait\).png)
+- [PDF Strategic Partner and Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Portrait\).pdf)
+- [SVG Strategic Partner and Partner Logos](assets/AAGI_GRDC_Strategic_Partners_Block_with_Project_Partner_2026_\(Portrait\).svg)
 
 ### AAGI Presentation Banner
 
 - [JPG Banner](assets/AAGI_pres_banner.jpg)
 
-!["AAGI Partner Logos for GRDC, Curtin University, The University of Queensland and University of Adelaide"](assets/Partners.svg)
-
-
 # AAGI Style Guide – Issues and Recommendations Report
 
-In June 2025, an evaluation of the AAGI Logo/Style Guide was made as a deliverable under Milestone 1 of the AAGI-AU-RD-WOP project, including suggested updates and modifications for further consideration by the AAGI leadership team. That document has been included in this repository as [Proposed Updates to the AAGI Style Guide - 2025-06-27.docx](https://github.com/AAGI-AUS/AAGI-Style-Guide-and-Logos/raw/refs/heads/main/Proposed%20Updates%20to%20the%20AAGI%20Style%20Guide%20-%202025-06-27.docx).
+In June 2025, an evaluation of the AAGI Logo/Style Guide was made as a deliverable under Milestone 1 of the AAGI-AU-RD-WOP project, including suggested updates and modifications for further consideration by the AAGI leadership team.
+That document has been included in this repository as [Proposed Updates to the AAGI Style Guide - 2025-06-27.docx](https://github.com/AAGI-AUS/AAGI-Style-Guide-and-Logos/raw/refs/heads/main/Proposed%20Updates%20to%20the%20AAGI%20Style%20Guide%20-%202025-06-27.docx).
+
+# 2026 Updates
+
+In the first quarter of 2026, the style guide and strategic partner logo blocks were updated with the new "Adelaide University" with the order being changed from Curtin University, the University of Queensland and University of Adelaide to be Adelaide University, Curtin University, the University of Queensland and approved by all strategic partners.
+
+!["AAGI Partner Logos for GRDC, Adelaide University, Curtin University, and The University of Queensland"](assets/AAGI_GRDC_Strategic_Partners_Block_2026_\(Portrait\).svg)
